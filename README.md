@@ -1,2 +1,32 @@
+
 # awesome-sitelen-pona
 kulupu pona pi nasin sitelen - A list of free sitelen pona fonts.
+
+## toki open (Preface)
+ijo ale la, jan ale li ken kepeken lipu toki ni. taso wile pi nasin sitelen ale ni li ken ante. sina wile kepeken ona la, o lukin e wile pi jan pali ona.
+
+The contents of this page are licensed under CC-0, however this is not the case for all of the fonts listed here. If you wish to use a font, be sure to read its license and adhere to the terms within.
+
+## nasin sitelen (Fonts)
+| lipu / nimi (Page/link) | jan pali (Creator) | ken kepeken (License)
+|--|--|--|
+|[linja pona](http://musilili.net/linja-pona/) | jan Same | CC BY 4.0
+|[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | jan Lentan (/dev/urandom) |CC-0
+|[Fairfax HD (nasin UCSUR)](https://www.kreativekorp.com/software/fonts/fairfaxhd/) <br> [Fairfax HD (sitelen Lasin -> sitelen pona)](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) | KreativeKorp | OFL 1.1
+|[linja ante](https://nilakayas.neocities.org/karya/linja-ante.html) | jan Melon (Just a Melon) | sona ala
+|[sitelen poka](https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu) | jan Inkepa | sona ala
+|[linja leko](https://github.com/pguimier/pali-sitelen/blob/master/plugins/linjaleko/linja_leko.ttf) | jan Selano | sona ala
+|[leko lili](https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/) | jan Osi (billsmugs) | CC-0
+|[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) | Jack Humbert | The Unlicense
+|[linja sike](https://wyub.github.io/tokipona/linjasike) | lipamanka | sona ala
+|[linja pi pu lukin](https://jansa-tp.github.io/linja-pi-pu-lukin/) | jan Sa | sona ala
+|[sitelen sans](https://www.reddit.com/r/tokipona/comments/kjv25w/because_it_seemed_like_my_font_is_going_to_take_a/) | u/bluemon_ (Echo) | sona ala
+|[linja pi tomo lipu](https://github.com/pguimier/linjapitomolipu) | Christophe Bouteiller, pguimier | MIT
+|[linja suwi](https://linjasuwi.ap5.dev/) | anna328p | OFL 1.1
+<!-- |[linja pimeja](https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja) | increpare (Stephen Lavelle) | MIT -->
+|[sitelen Antowi](https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/)|sona ala
+|[sitelen pona pi palisa mute](https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute)|FontStruct Non-Commercial 1.0
+|[sitelen pona kiwen (nanpa wan)](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen)<br>[sitelen pona kiwen (nanpa tu)](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu)|CC BY-SA 3.0
+|[Toki Pona Updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated)|CC BY-SA 3.0
+|[sitelen pona OTF](https://imgur.com/a/9B6Xx)|sona ala
+|[]()|
