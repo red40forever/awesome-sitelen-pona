@@ -11,12 +11,12 @@ The contents of this page are licensed under CC-0, however this is not the case 
 | lipu / nimi (Page/link) | jan pali (Creator) | ken kepeken (License)
 |--|--|--|
 |[linja pona](http://musilili.net/linja-pona/) | jan Same | CC BY 4.0
-|[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | jan Lentan (/dev/urandom) |CC-0
+|[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | jan Lentan (/dev/urandom) | CC0-1.0
 |[Fairfax HD (nasin UCSUR)](https://www.kreativekorp.com/software/fonts/fairfaxhd/) <br> [Fairfax HD (sitelen Lasin -> sitelen pona)](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) | KreativeKorp | OFL 1.1
 |[linja ante](https://nilakayas.neocities.org/karya/linja-ante.html) | jan Melon (Just a Melon) | sona ala
 |[sitelen poka](https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu) | jan Inkepa | sona ala
 |[linja leko](https://github.com/pguimier/pali-sitelen/blob/master/plugins/linjaleko/linja_leko.ttf) | jan Selano | sona ala
-|[leko lili](https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/) | jan Osi (billsmugs) | CC-0
+|[leko lili](https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/) | jan Osi (billsmugs) | CC0-1.0
 |[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) | Jack Humbert | The Unlicense
 |[linja sike](https://wyub.github.io/tokipona/linjasike) | lipamanka | sona ala
 |[linja pi pu lukin](https://jansa-tp.github.io/linja-pi-pu-lukin/) | jan Sa | sona ala
