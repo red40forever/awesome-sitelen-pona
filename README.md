@@ -23,10 +23,7 @@ The contents of this page are licensed under CC-0, however this is not the case 
 |[sitelen sans](https://www.reddit.com/r/tokipona/comments/kjv25w/because_it_seemed_like_my_font_is_going_to_take_a/) | u/bluemon_ (Echo) | sona ala
 |[linja pi tomo lipu](https://github.com/pguimier/linjapitomolipu) | Christophe Bouteiller, pguimier | MIT
 |[linja suwi](https://linjasuwi.ap5.dev/) | anna328p | OFL 1.1
-<!-- |[linja pimeja](https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja) | increpare (Stephen Lavelle) | MIT -->
-|[sitelen Antowi](https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/)|sona ala
-|[sitelen pona pi palisa mute](https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute)|FontStruct Non-Commercial 1.0
-|[sitelen pona kiwen (nanpa wan)](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen)<br>[sitelen pona kiwen (nanpa tu)](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu)|CC BY-SA 3.0
-|[Toki Pona Updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated)|CC BY-SA 3.0
-|[sitelen pona OTF](https://imgur.com/a/9B6Xx)|sona ala
-|[]()|
+|[sitelen Antowi](https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/) | u/salsarosada | sona ala
+|[sitelen pona pi palisa mute](https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute) | WMCook | FontStruct Non-Commercial 1.0
+|[sitelen pona kiwen (nanpa wan)](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen)<br>[sitelen pona kiwen (nanpa tu)](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu) | jan Sewaka (JupiterBoy100) | CC BY-SA 3.0
+|[Toki Pona Updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated) | ashcrash9 | CC BY-SA 3.0
