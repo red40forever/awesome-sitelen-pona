@@ -31,4 +31,4 @@ The contents of this page are licensed under CC-0, however this is not the case 
 ## ⚠️ o pona e lipu ni (Help improve this page)!
 lipu ni li sin li ante mute. ijo li ken lon ala, li ken pona ala. sina wile pona e pakala la, o [pana e ante sina](https://github.com/Apollogeist/awesome-sitelen-pona/pulls). sina wile ala la, o [pana e pilin sina](https://github.com/Apollogeist/awesome-sitelen-pona/issues). jan pali li pona e ona.
 
-This page is a work in progress. Some things may be wrong or missing. If you want to make an improvement, feel free to [submit a pull request](https://github.com/Apollogeist/awesome-sitelen-pona/issues) or [open an issue](https://github.com/Apollogeist/awesome-sitelen-pona/issues) and a contributor will address it.
+This page is a work in progress. Some things may be wrong or missing. If you want to make an improvement, feel free to [submit a pull request](https://github.com/Apollogeist/awesome-sitelen-pona/pulls) or [open an issue](https://github.com/Apollogeist/awesome-sitelen-pona/issues) and a contributor will address it.
