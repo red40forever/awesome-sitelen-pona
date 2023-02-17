@@ -3,7 +3,7 @@
 kulupu pona pi nasin sitelen - A list of free sitelen pona fonts.
 
 ## toki open (Preface)
-ijo ale la, jan ale li ken kepeken lipu toki ni. taso wile pi nasin sitelen ale ni li ken ante. sina wile kepeken ona la, o lukin e wile pi jan pali ona.
+lipu toki ni la, jan ale li ken kepeken ona li ken ante e ona. taso wile pi nasin sitelen ale li ken ante. sina wile kepeken nasin sitelen la, o lukin e wile pi jan pali ona.
 
 The contents of this page are licensed under CC-0, however this is not the case for all of the fonts listed here. If you wish to use a font, be sure to read its license and adhere to the terms within.
 
@@ -29,7 +29,7 @@ The contents of this page are licensed under CC-0, however this is not the case 
 |[sitelen pona kiwen (nanpa wan)](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen)<br>[sitelen pona kiwen (nanpa tu)](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu) | jan Sewaka (JupiterBoy100) | CC BY-SA 3.0
 |[Toki Pona Updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated) | ashcrash9 | CC BY-SA 3.0
 
-## ⚠️ o pona e lipu ni (Help improve this page)!
-lipu ni li sin li ante mute. ijo li ken lon ala, li ken pona ala. sina wile pona e pakala la, o [pana e ante sina](https://github.com/Apollogeist/awesome-sitelen-pona/pulls). sina wile ala la, o [pana e pilin sina](https://github.com/Apollogeist/awesome-sitelen-pona/issues). jan pali li pona e ona.
+## ⚠️ o pona e lipu ni! (Help improve this page!)
+lipu ni li sin li ante mute. ijo li ken lon ala, li ken pona ala. sina wile pona e pakala la, o [pana e ante sina](https://github.com/Apollogeist/awesome-sitelen-pona/pulls). sina wile ala la, o [pana e pilin sina](https://github.com/Apollogeist/awesome-sitelen-pona/issues). mi pona e ona.
 
-This page is a work in progress. Some things may be wrong or missing. If you want to make an improvement, feel free to [submit a pull request](https://github.com/Apollogeist/awesome-sitelen-pona/pulls) or [open an issue](https://github.com/Apollogeist/awesome-sitelen-pona/issues) and a contributor will address it.
+This page is a work in progress. Some things may be wrong or missing. If you want to make an improvement, feel free to [submit a pull request](https://github.com/Apollogeist/awesome-sitelen-pona/pulls) or [open an issue](https://github.com/Apollogeist/awesome-sitelen-pona/issues) and I'll address it.
