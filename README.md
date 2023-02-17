@@ -10,9 +10,10 @@ The contents of this page are licensed under CC-0, however this is not the case 
 ## nasin sitelen (Fonts)
 | lipu / nimi (Page/link) | jan pali (Creator) | ken kepeken (License)
 |--|--|--|
-|[linja pona](http://musilili.net/linja-pona/) | jan Same | CC BY 4.0
+|[linja pona](http://musilili.net/linja-pona/) | David Roberts, jan Same | CC BY 4.0
 |[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | jan Lentan (/dev/urandom) | CC0-1.0
 |[Fairfax HD (nasin UCSUR)](https://www.kreativekorp.com/software/fonts/fairfaxhd/) <br> [Fairfax HD (sitelen Lasin -> sitelen pona)](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) | KreativeKorp | OFL 1.1
+|[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/) | KreativeKorp | OFL 1.1
 |[linja ante](https://nilakayas.neocities.org/karya/linja-ante.html) | jan Melon (Just a Melon) | sona ala
 |[sitelen poka](https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu) | jan Inkepa | sona ala
 |[linja leko](https://github.com/pguimier/pali-sitelen/blob/master/plugins/linjaleko/linja_leko.ttf) | jan Selano | sona ala
