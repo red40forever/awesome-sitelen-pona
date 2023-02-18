@@ -2,6 +2,10 @@
 # awesome-sitelen-pona
 kulupu pona pi nasin sitelen - A list of free sitelen pona fonts.
 
+## ⚠️ o lukin
+lipu ni li lili. sina wile lukin e nasin sitelen mute la, o tawa lipu ni:
+https://docs.google.com/spreadsheets/d/1xwgTAxwgn4ZAc4DBnHte0cqta1aaxe112Wh1rv9w5Yk/htmlview?gid=1195574771
+
 ## toki open (Preface)
 lipu toki ni la, jan ale li ken kepeken ona li ken ante e ona. taso wile pi nasin sitelen ale li ken ante. sina wile kepeken nasin sitelen la, o lukin e wile pi jan pali ona.
 
