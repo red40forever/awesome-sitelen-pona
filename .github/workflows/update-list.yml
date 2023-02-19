@@ -1,6 +1,7 @@
 name: Update Font List
 run-name: ${{ github.actor }} updated font list
 on:
+  workflow_dispatch
   schedule:
     - cron: '0 0 * * *'
 
