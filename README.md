@@ -14,24 +14,75 @@ The contents of this page are licensed under CC-0, however this is not the case 
 ## nasin sitelen (Fonts)
 | lipu / nimi (Page/link) | jan pali (Creator) | ken kepeken (License)
 |--|--|--|
-|[linja pona](http://musilili.net/linja-pona/) | David Roberts, jan Same | CC BY 4.0
-|[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | jan Lentan (/dev/urandom) | CC0-1.0
-|[Fairfax HD (nasin UCSUR)](https://www.kreativekorp.com/software/fonts/fairfaxhd/) <br> [Fairfax HD (sitelen Lasin -> sitelen pona)](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) | KreativeKorp | OFL 1.1
-|[sitelen seli kiwen](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/) | KreativeKorp | OFL 1.1
-|[linja ante](https://nilakayas.neocities.org/karya/linja-ante.html) | jan Melon (Just a Melon) | sona ala
-|[sitelen poka](https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu) | jan Inkepa | sona ala
-|[linja leko](https://github.com/pguimier/pali-sitelen/blob/master/plugins/linjaleko/linja_leko.ttf) | jan Selano | sona ala
-|[leko lili](https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/) | jan Osi (billsmugs) | CC0-1.0
-|[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) | Jack Humbert | The Unlicense
-|[linja sike](https://wyub.github.io/tokipona/linjasike) | lipamanka | sona ala
-|[linja pi pu lukin](https://jansa-tp.github.io/linja-pi-pu-lukin/) | jan Sa | sona ala
-|[sitelen sans](https://www.reddit.com/r/tokipona/comments/kjv25w/because_it_seemed_like_my_font_is_going_to_take_a/) | bluemon_ (Echo) | sona ala
-|[linja pi tomo lipu](https://github.com/pguimier/linjapitomolipu) | Christophe Bouteiller, pguimier | MIT
-|[linja suwi](https://linjasuwi.ap5.dev/) | anna328p | OFL 1.1
-|[sitelen Antowi](https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/) | u/salsarosada | sona ala
-|[sitelen pona pi palisa mute](https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute) | WMCook | FontStruct Non-Commercial 1.0
-|[sitelen pona kiwen (nanpa wan)](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen)<br>[sitelen pona kiwen (nanpa tu)](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu) | jan Sewaka (JupiterBoy100) | CC BY-SA 3.0
-|[Toki Pona Updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated) | ashcrash9 | CC BY-SA 3.0
+|[5x5 sitelen pona](https://fontstruct.com/fontstructions/show/1798201/5x5-sitelen-pona) | jan Sewaka / jan Weko | CC BY-SA 3.0
+|[Fairfax](https://www.kreativekorp.com/software/fonts/fairfax/) | jan Lepeka | OFL
+|[Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd/) | jan Lepeka | OFL
+|[Fairfax Pona](https://www.kreativekorp.com/software/fonts/fairfaxpona/) | jan Lepeka | OFL
+|[Fairfax Pona HD](https://www.kreativekorp.com/software/fonts/fairfaxponahd/) | jan Lepeka | OFL
+|[insa pi supa lape](https://devurandom.xyz/tokipona/supalape.html) | devurandom / jan Lentan | CC0
+|[kiku upi ala](https://kelseyhigham.github.io/kiku-upi-ala/) | waso Keli (Kelsey Higham) | OFL
+|[leko lili 15x15](https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/) | jan Osi | CC0 / asked not to use
+|[linja ante](https://nilakayas.neocities.org/karya/linja-ante.html) | jan Melon | CC0
+|[linja lape suwi](https://greenguy5294.github.io/linjalapesuwi/) | jan Ali, jan Sa | all rights reserved
+|[linja leko / lili pona](https://github.com/pguimier/pali-sitelen/tree/master/plugins/linjaleko) | Jervik Hsien Serrano | CC BY 4.0
+|[linja leko pi luka tu](https://fontstruct.com/fontstructions/show/2002090/linja-leko-pi-luka-tu) | AgentMuffin | CC BY-NC-SA 3.0
+|[linja lipamanka normal](https://github.com/lipamanka/linja-lipamanka-0) | lipamanka | OFL
+|[linja luka](https://github.com/janMelon/linja-luka) | jan Pensamin/jan Melon | OFL
+|[linja pi kama wan](https://github.com/pguimier/pali-sitelen/tree/master/plugins/linjapikamawan) | increpare / jan Inkepa | OFL
+|[linja pi kute mute](https://fontstruct.com/fontstructions/show/1678777/linja-pi-kute-mute) | increpare / jan Inkepa | CC BY-NC-SA 3.0
+|[linja pi kute mute tu](https://github.com/increpare/linja_pi_kute_mute) | increpare / jan Inkepa | CC BY-NC-SA 3.0
+|[linja pi pu lukin](https://jansa-tp.github.io/linja-pi-pu-lukin/) | jan Sa | ?
+|[linja pi tomo lipu](https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/) | Pascal Guimier (jan Talu) / Christophe Bouteiller | OFL
+|[linja pimeja](https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja) | increpare / jan Inkepa | CC0
+|[linja pimeja pona](http://antetokipona.infinityfreeapp.com/font/) | jan Ke Tami | OFL
+|[linja pona](http://musilili.net/linja-pona/) | David A Roberts / jan Same | OFL
+|[linja sike](https://github.com/Wyub/Wyub.github.io/blob/main/tokipona/linja-sike-5.otf) | lipamanka / kulupu poki | OFL
+|[linja sike pi kute mute](https://github.com/increpare/linja_pi_kute_mute) | increpare / jan Inkepa | all rights reserved
+|[linja suwi](https://linjasuwi.ap5.dev/) | jan Ana | OFL
+|[linja waso lili](https://github.com/ItMarki/linja-waso) | jan Maku (ItMarki) | OFL
+|[linja wawa](https://github.com/janMelon/linjawawa/blob/main/font-files/linjawawa1.21.ttf) | jan Melon / nimi Elemenopi | OFL
+|[nasin leko suwi](https://nasin.leko.la/) | jan Mika en jan Poman | CC BY 4.0
+|[nasin leko suwi (Lasina)](https://nasin.leko.la/) | jan Mika en jan Poman | CC BY 4.0
+|[nasin luka](https://cdn.discordapp.com/attachments/952797418381000806/1069284265860276254/nasin_luka_1.1.otf) | trollbreeder | OFL
+|[nasin nanpa](https://github.com/ETBCOR/linja-nanpa) | jan Itan | MIT
+|[nasin sitelen pu mono](https://cdn.discordapp.com/attachments/952797418381000806/977143643896950814/NasinSitelenPuMono.otf) | jan Juli | OFL
+|[Neoletters](http://www.orenwatson.be/fontdemo.htm) | Oren Watson | CC BY NC SA 4.0
+|[seta sans](https://jcdietrich.github.io/TokiPonaSetaSans-Regular2.otf) | Eschar / Nathan McCoy | ?
+|[sike en linja](https://drive.google.com/file/d/1jqr0H0M6sEIScpIFPaRwARK4HXS0lkaW/view) | jan Silani | OFL
+|[sitelen Antowi](https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/) | jan Jeli / UkiyoMoji Fonts | custom license
+|[sitelen Komalin](https://cdn.discordapp.com/attachments/301377942062366741/998615080168063006/sitelen-komalin.ttf) | Kolmaryn (jan Komalin) | Fontstruct ND NC
+|[sitelen Kotopon](https://github.com/AcipenserSturio/sitelen-Kotopon) | kala Asi | OFL
+|[sitelen Latin](https://www.reddit.com/r/tokipona/comments/rau3lr/sitelen_sitelen_font_with_containers/) | jan Pitaki | CC BY 4.0
+|[sitelen leko kiki](https://fontstruct.com/fontstructions/show/2139247/sitelen-leko-kiki) | jan Kanon | Fontstruct ND NC
+|[sitelen leko ko](https://fontstruct.com/fontstructions/show/2107711/sitelen-leko-ko) | jan Kanon | CC BY-NC 3.0
+|[sitelen lili](https://cdn.discordapp.com/attachments/340307145373253642/1013156104999534603/sitelen-lili.ttf) | Unknown Author | all rights reserved
+|[sitelen nasin luka](https://cdn.discordapp.com/attachments/999566667187228673/1070719858326646925/sitelennasinluka-Regular.otf) | akesi kon Nalasuni | CC BY 4.0
+|[sitelen palisa sewi](https://fontstruct.com/fontstructions/show/2108474/sitelen-palisa-sewi) | jan Kanon | Fontstruct ND NC
+|[sitelen pi jan Soja](https://cdn.discordapp.com/attachments/948449040008347649/1059574539551514714/sitelen_pi_jan_Soja.ttf) | jan Soja | OFL
+|[sitelen pi linja ko](https://web.archive.org/web/20201015070330/https://github.com/increpare/pixel-fonts-for-sitelen-pona) | increpare / jan Inkepa | CC0
+|[sitelen poka / sitelen luka tu tu](https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu) | increpare / jan Inkepa | CC0
+|[sitelen pona 7x7](https://fontstruct.com/fontstructions/show/1797824/sitelen-pona-7x7) | jan Sewaka / jan Weko | CC BY-SA 3.0
+|[sitelen pona kiwen](https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen) | jan Sewaka(jan Weko) | CC BY-SA 3.0
+|[sitelen pona kiwen nanpa tu](https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu) | jan Sewaka(jan Weko) | CC BY-SA 3.0
+|[sitelen pona pi palisa mute](https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute) | WMCook | Fontstruct ND NC
+|[sitelen pona PMD sky font](https://fontstruct.com/fontstructions/show/2117304/sitelen-pona-pmd-sky-font) | differentthings | Fontstruct ND NC
+|[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) | Jack Humbert | OFL
+|[sitelen Sans](https://www.reddit.com/r/tokipona/comments/kjv25w/) | u/bluemon_ | all rights reserved
+|[sitelen seli kiwen asuki](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/) | jan Lepeka | OFL
+|[sitelen seli kiwen juniko](https://www.kreativekorp.com/software/fonts/sitelenselikiwen/) | jan Lepeka | OFL
+|[sitelen suwi ko](https://www.reddit.com/r/tokipona/comments/ko4kid/sitelen_suwi_ko_a_soft_cute_sitelen_for_wet_sand/) | qazw | CC BY 4.0
+|[sitelen telo](https://www.reddit.com/r/tokipona/comments/jax1x2/sitelen_telo_v101_a_japaneseinspired_logographic/) | u/efofecks | OFL
+|[sitelen telo Momo](https://github.com/janMelon/sitelen-telo-Momo) | jan Momo (MachiToons) | OFL
+|[sitelen uta](https://fontstruct.com/fontstructions/show/2114958/sitelen-uta-1) | jan Sewaka / jan Weko | CC BY-SA 3.0
+|[sitelenlili](https://lp.plop.me/fonts/sitelenlili.ttf) | Unknown Author | ?
+|[tama ka Tumu](https://github.com/RetSamys/tama-ka-Tumu) | ka Tumu & ka Ke Tami & Kelsey Higham | OFL
+|[Toki Pona Bubble](https://jordanwmartin.gumroad.com/l/flpem) | Jordan W Martin | personal use only
+|[toki pona OTF](https://imgur.com/a/9B6Xx) | jan Wesi | all rights reserved
+|[toki pona PixelFonts](https://cdn.discordapp.com/attachments/340307145373253642/631510265455706132/tokiponaPixelFonts12Medium.ttf) | Unknown Author | ?
+|[toki pona updated](https://fontstruct.com/fontstructions/show/716817/toki_pona_updated) | ashcrash9 | CC BY-SA 3.0
+|[TokiTengwar](https://web.archive.org/web/20200126172548/http://tokipona.net/tp/janpije/tengwar.php) | jan Pije | all rights reserved
+|[Unifont CSUR](https://unifoundry.com/unifont/) | Paul Hardy | OFL/GPL
+|[にしき的フォント 『 Nishiki-teki 』](https://umihotaru.work/) | Umihotaru | OFL
 
 ## ⚠️ o pona e lipu ni! (Help improve this page!)
 lipu ni li sin li ante mute. ijo li ken lon ala, li ken pona ala. sina wile pona e pakala la, o [pana e ante sina](https://github.com/Apollogeist/awesome-sitelen-pona/pulls). sina wile ala la, o [pana e pilin sina](https://github.com/Apollogeist/awesome-sitelen-pona/issues). mi pona e ona.
