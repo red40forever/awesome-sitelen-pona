@@ -1,15 +1,10 @@
-
 # awesome-sitelen-pona
 kulupu pona pi nasin sitelen - A list of free sitelen pona fonts.
 
-## ⚠️ o lukin
-lipu ni li lili. sina wile lukin e nasin sitelen mute la, o tawa lipu ni:
-https://docs.google.com/spreadsheets/d/1xwgTAxwgn4ZAc4DBnHte0cqta1aaxe112Wh1rv9w5Yk/htmlview?gid=1195574771
-
 ## toki open (Preface)
-lipu toki ni la, jan ale li ken kepeken ona li ken ante e ona. taso wile pi nasin sitelen ale li ken ante. sina wile kepeken nasin sitelen la, o lukin e wile pi jan pali ona.
+sona en nasin sitelen pi lipu ni li tan lipu [jasima](https://linku.la/jasima/data.json) pi [lipu Linku](https://linku.la/). lipu ni la, jan ale li ken kepeken ona li ken ante e ona. taso wile pi nasin sitelen ale li ken ante. sina wile kepeken nasin sitelen la, o lukin e wile pi jan pali ona.
 
-The contents of this page are licensed under CC-0, however this is not the case for all of the fonts listed here. If you wish to use a font, be sure to read its license and adhere to the terms within.
+The fonts and related information on this page are gathered from [lipu Linku](https://linku.la/)'s [jasima](https://linku.la/jasima/data.json). The contents of this page and the code used to generate it are licensed under CC-0, however this is not the case for all of the fonts listed here. If you wish to use a font, be sure to read its license and adhere to the terms within.
 
 ## nasin sitelen (Fonts)
 | lipu / nimi (Page/link) | jan pali (Creator) | ken kepeken (License)

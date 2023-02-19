@@ -2,7 +2,7 @@ import json
 from urllib.request import urlopen
 
 md_template = ""
-with open("README-template.md", "r", encoding="utf8") as f:
+with open("generate/README-template.md", "r", encoding="utf8") as f:
     md_template = f.read()
 
 jasima_url = "https://linku.la/jasima/data.json"
@@ -35,5 +35,5 @@ for font in data["fonts"]:
 
 print(md_template.format(list_body=list_body[:-1]))
 
-with open("../README.md", "w", encoding="utf8") as f:
+with open("README.md", "w", encoding="utf8") as f:
     f.write(md_template.format(list_body=list_body[:-1]))
