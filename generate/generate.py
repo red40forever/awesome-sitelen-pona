@@ -21,8 +21,6 @@ for font in data["fonts"]:
     elif "fontfile" in font_object["links"]:
         url = font_object["links"]["fontfile"]
 
-    print(font_object.keys())
-
     creator = "Unknown Author"
     if "creator" in font_object.keys():
         creator = font_object["creator"]
