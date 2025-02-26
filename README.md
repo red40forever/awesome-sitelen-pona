@@ -1,10 +1,9 @@
 # awesome-sitelen-pona
 kulupu pona pi nasin sitelen - A list of free sitelen pona fonts.
 
-> [WARNING]
+> [!WARNING]
 > lipu ni li pini tan [lipu sitelen pi lipu Linku](https://linku.la/fonts)! ni la, mi awen e lipu ni.
-
-> [WARNING]
+>
 > This page has been made opsolete thanks to [lipu Linku's fonts page](https://linku.la/fonts)! As a result, I'm archiving this repo.
 
 ## toki open (Preface)
